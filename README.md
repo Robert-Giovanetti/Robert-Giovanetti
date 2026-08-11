@@ -15,10 +15,10 @@
 </details>
 <details>
   <summary><h3 data-importer="text" align="center">🇺🇸</h3></summary>
-<p>Hi! My name is Robert, I'm 15 years old and I'm from Brazil 🇧🇷. Currently, I'm taking a technical course in Systems Development 👨‍💻 at Etec da Zona Leste, where I'm constantly working to expand my knowledge of technology and programming. I have an intermediate level of Spanish 🇪🇸 and a basic level of English 🇺🇸 language I plan to improve soon to expand my academic and professional opportunities. In the future, I aim to focus my career on Cybersecurity 🔒 and explore information security in depth. Welcome to my GitHub profile!</p></details>
+<p>Hi! My name is Robert, I'm 15 years old and I'm brasilian 🇧🇷. Currently, I'm taking a technical course in Systems Development 👨‍💻 at Etec da Zona Leste, where I'm constantly working to expand my knowledge of technology and programming. I have an intermediate level of Spanish 🇪🇸 and a basic level of English 🇺🇸 language I plan to improve soon to expand my academic and professional opportunities. In the future, I aim to focus my career on Cybersecurity 🔒 and explore information security in depth. Welcome to my GitHub profile!</p></details>
 <details>
   <summary><h3 data-importer="text" align="center">🇪🇸</h3></summary>
-<p>¡Hola! Mi nombre es Robert, tengo 15 años y soy de Brasil 🇧🇷. Actualmente, estoy cursando una carrera técnica en Desarrollo de Sistemas 👨‍💻 en la Etec da Zona Leste, donde busco constantemente expandir mis conocimientos en tecnología y programación. Tengo un nivel intermedio de español 🇪🇸 y un nivel básico de inglés 🇺🇸, idioma que planeo mejorar pronto para ampliar mis oportunidades académicas y profesionales. En el futuro, pretendo enfocar mi carrera en la Ciberseguridad 🔒 y explorar la seguridad de la información a fondo. ¡Bienvenido a mi perfil de GitHub!</p></details>
+<p>¡Hola! Mi nombre es Robert, tengo 15 años y soy brasileño 🇧🇷. Actualmente, estoy cursando una carrera técnica en Desarrollo de Sistemas 👨‍💻 en la Etec da Zona Leste, donde busco constantemente expandir mis conocimientos en tecnología y programación. Tengo un nivel intermedio de español 🇪🇸 y un nivel básico de inglés 🇺🇸, idioma que planeo mejorar pronto para ampliar mis oportunidades académicas y profesionales. En el futuro, pretendo enfocar mi carrera en la Ciberseguridad 🔒 y explorar la seguridad de la información a fondo. ¡Bienvenido a mi perfil de GitHub!</p></details>
 </details>
 
 ##
