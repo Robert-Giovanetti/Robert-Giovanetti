@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=002B85"  />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Olá!+meu+nome+é+Robert+Inácio;👋+Hello!+my+name+is+Robert+Inácio;👋+¡Hola!+mi+nombre+es+Robert+Inácio;Let%27s+code+together%3F" alt="Typing SVG com fonte Montserrat"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=700&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Olá!+meu+nome+é+Robert;👋+Hello!+my+name+is+Robert;👋+¡Hola!+mi+nombre+es+Robert;Let%27s+code+together%3F" alt="Typing SVG com fonte Montserrat"/>
 </div>
 
 #
