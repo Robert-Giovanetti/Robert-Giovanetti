@@ -21,8 +21,66 @@
 <p>¡Hola! Mi nombre es Robert, tengo 15 años y soy brasileño 🇧🇷. Actualmente, estoy cursando una carrera técnica en Desarrollo de Sistemas 👨‍💻 en la Etec da Zona Leste, donde busco constantemente expandir mis conocimientos en tecnología y programación. Tengo un nivel intermedio de español 🇪🇸 y un nivel básico de inglés 🇺🇸, idioma que planeo mejorar pronto para ampliar mis oportunidades académicas y profesionales. En el futuro, pretendo enfocar mi carrera en la Ciberseguridad 🔒 y explorar la seguridad de la información a fondo. ¡Bienvenido a mi perfil de GitHub!</p></details>
 </details>
 
+
 ##
 
+<p data-importer="text" align="center">I'm learning📖</p>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<p data-importer="text" align="center">My tools 🛠️</p>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<p>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Robert-Giovanetti&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
+
+<img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Robert-Giovanetti&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
+</p>
+
+
+
+###
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pyetrotenorio/pyetrotenorio/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pyetrotenorio/pyetrotenorio/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pyetrotenorio/pyetrotenorio/output/snake.svg">
+</picture>
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=002B85"  />
 </div>
