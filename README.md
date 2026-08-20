@@ -53,10 +53,19 @@
 ###
 
 <p>
+
+
+<img 
+      align="right" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=Robert-Giovanetti&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Robert-Giovanetti&layout=compact&langs_count=4&theme=tokyonight" 
+  />
+
+
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Robert-Giovanetti&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Robert-Giovanetti&include_all_commits=true&theme=tokyonight)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Robert-Giovanetti&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Robert-Giovanetti&layout=compact&langs_count=4&theme=tokyonight)
 </p>
 
 
